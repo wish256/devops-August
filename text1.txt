@@ -1,1 +1,2 @@
+:wq
 test1_updated
